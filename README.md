@@ -11,7 +11,7 @@ Group Members
 Project Manager : Simge Acimis
 
 
-Software Engineer : Muhammed Ikbak Kilavuz
+Software Engineer : Muhammed Ikbal Kilavuz
 
 
-Test Expert : Simge Acimis ,  Muhammed Ikbak Kilavuz
+Test Expert : Simge Acimis ,  Muhammed Ikbal Kilavuz
