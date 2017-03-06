@@ -36,4 +36,4 @@ Disciplinary actions can vary in severity and can result in probation or termina
 
 Licence
 
-MIT. Copyright (c) Ahmed Şamil Bülbül, Halil İbrahim Şener, Naciye Güzel.
+MIT. Copyright (c) Simge Acımış . Muhammed İkbal Kılavuz
