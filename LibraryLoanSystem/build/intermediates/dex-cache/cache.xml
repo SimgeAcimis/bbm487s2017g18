@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.4.1.1/c8d96f6fd2bcc179c312da33ee670a71188cc60d/httpclient-4.4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8d96f6fd2bcc179c312da33ee670a71188cc60d">
+        <dex dex="/root/AndroidStudioProjects/Calendar/app/build/intermediates/pre-dexed/debug/httpclient-4.4.1.1_955c8355600912b0bc200d9428a64a1eff9191f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/root/AndroidStudioProjects/Calendar/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_76f81077aea9bd1699aabfb9818dc8fa3bde44df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ea0a738925faf56f9c9bfa2bc3a6e1fe21795cea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/root/AndroidStudioProjects/Calendar/app/build/intermediates/pre-dexed/debug/classes_3bed589c7eba057273fd51050002e1f7b1a4b816.jar" />
+    </item>
+
+</items>
